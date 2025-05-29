@@ -1,0 +1,109 @@
+Creation wireframe:
+https://wireframe.cc/ww2PIX
+
+My board game creation content:
+-- Section 1 --
+Creation
+On this page, you will first find all the software used to create the parts and pieces of the game, and second you will
+find the name, an example image, it's dimensions, and any suggestions I have when going about making your own game. I hope
+this information is helpful.
+
+-- Section 2 --
+Inkscape
+Inkscape is a free to use, open source, scalable vector graphic (svg) editing software that is perfect for making the graphics
+for your Monopoly game. If you don't know, an svg is a graphic or image that doesn't pixelate, ever. You can scale the image as
+big or as small as you want and the image will still look crisp. While it may take some getting used to, there are a ton of useful
+YouTube channels (such as Logos by Nick) and useful documentation on how to use this sofware with ease.
+
+--
+
+Online Editing Software
+There are many useful online tools to edit images you have to the way you want them. However, many of them require you to pay for
+their services after a certain use. Lunapic is a great, free online image editor that I have used for a few years now, and it seems
+to do a decent job. If you would like to check it out/use it for yourself, please feel free to do so. Always make sure you trust a
+website/service before uploading/downloading any content. (Use this or any software at your own risk!)
+
+-- Section 3 --
+The Board
+The Monopoly board was the first thing I worked on. I didn't really know what I was doing with the first draft, but I kept on refining 
+the board until I got it to a point I like. If you decide to use Inkscape for this, please make sure to put each of the property tiles 
+in their own layer! As I found out, the file starts lagging if you don't do this! It may take some time to get the desired look, so 
+please be aware that the design may need to be done more than once!
+
+I had the idea to make a MASSIVE Monopoly back in 2020, in the thick of quarantine. I wanted an obscenely large game of Monopoly I could
+play with family and friends. So what's a more comical way of doing this than building a 3 foot x 3 foot board to play on? (Haven't tested
+the process, but it seems fun in the mind)
+
+Dimensions: (original): 19.5" x 19.5" | Massive Monopoly (unfinalized): 36" x 36" 
+
+-- Section 4 --
+Game Cards
+The key for the game cards is to look on the internet for design ideas. Creating a card design idea can be tough, but with enough work,
+it will be done well. For my game, I decided to design the backs of the Monopoly board cards on my own, but the property deeds are inspired
+by the backs of the property deeds from the Mega Monopoly Edition. All the game cards are the same size in the original Monopoly game.
+
+I wanted everything in my game to be massive, so the cards grew with the board. The choice of how each card grew was a choice based on the look of
+it printed in a one to one ratio compared with the board. There was no set growth when creating the cards. However, not only did the card size grow,
+but the amount of card decks as well. In Massive Monopoly. There are four decks of board cards (Chance, Chance 2, Community Chest, and Shopping Spree.
+Which is similar to the bus ticket, found in the Mega Monopoly version. However, in my mind, more fun.) The title deeds have received one more title deed
+(except for the railroads, they needed to keep the board symmetrical). I decided, the bigger the better. 
+
+Dimensions: (original): 2" x 3.125" | Massive Monopoly (unfinalized): Board Cards: 5" x 3", Title Deeds: 3" x 4.2"  
+
+-- Section 5 --
+Money
+The money you use for your Monopoly money doesn't have to be made by you. You could just take the already existing money from a Monopoly game
+that you have lying around. Make sure you have permission to use it though! You can, however, make your own Monopoly money from scratch. When
+I was making my money, I followed a tutorial from Logos by Nick. It creates a similar-ish border effect on the money like you see in the original.
+
+I wanted the Massive Monopoly Money to be very similar to the money found in Mega Monopoly. As you could probably tell by now, I chose Mega Monopoly
+to be the game I am basing my "expansion" on. I couldn't find a design I was happy with, so I had to settle (being the perfectionist I am, this
+was saddening). Even so, the money now is going under it's 3rd remodel and I like it more and more as the time goes on. If you have a better idea
+for a design. Please contact me! I am open to suggestions!  
+
+Dimensions: (original): 4" x 2" | Massive Monopoly (unfinalized): 6" x 3"
+
+-- Section 6 --
+Tokens
+Same as the money, you can use the existing tokens you find in an already existing Monopoly game, but if you want to make your own, I can tell
+you how I made mine. I found a website that 3D prints in metal because I really wanted to have custom tokens made of bronze in my game. Although
+this was a fun thought, I'd advise you not to do this if you want to save money. If you still want to make custom tokens, make sure the dimensions
+of the tokens are what you really want and that you want to have the specific model of token. When I made mine, I found random trinkets off of
+Thingyverse and printed them to be used in game. I made the mistake of ordering the tokens and they came out too small. Click here to use the
+service I did to make my tokens.
+
+The size of a Monopoly token depends on the game version itself. There is not one set size for a
+Monopoly token. If you want a specific size of token, you might want to measure the token you want
+yours to be similar to, to get a good result. 
+
+-- Section 7 --
+Buildings
+With my personal Monopoly, I plan to use the pieces from an existing Monopoly so I don't have to worry about making my own. Having said that, I am
+making a new building that is worth more than the skyscraper from the Mega Monopoly. I call it the city. The city building model is going to be made
+and printed with some help of someone I know with a 3D printer. I'm doing this as the token doesn't exist yet.
+
+The size of the buildings again, depend on the game itself. The best thing to do is to find a game's building you already like and base yours off of
+that. This way, you don't have to start completely from scratch. (It's difficult, believe me. But if you want to, go for it!)
+
+-- Section 8 --
+Dice
+Now, making dice is a hard one as you probably want them to be sturdy enough for play and you want something as professional as you can get it. You could
+make your own out of wood, plastic, acrylic or metal if you wanted to. I found these amazing dice on Amazon that really fit what I wanted for my game. Click
+here to take a look. The dice I got are made of metal alloy and are pretty hefty. I don't want them to damage my game when rolled, so I'm going to create a
+custom board game box that's lined with some soft material so nothing is damaged over long periods of use, but more on that later.
+
+In Massive Monopoly, there will be 5 dice that one can use during their turn. Four metal dice I bought off of Amazon and one Monopoly Speed Die I bought off of Ebay.
+There's a Massive amount of dice as the game itself is Massive with 17 squares on the board per side. The five dice is to ensure Massive fun with, hopefully,
+fast gameplay (the game is unfinished and hasn't been play tested to test this hypothesis).
+
+Dimensions: (original): Dimensions vary. | Massive Monopoly: 2.3 in x 2.5 in. x 0.1 in.  
+
+-- Section 9 --
+The Game Box
+I haven't created the game box for my Monopoly game yet, so I don't have a plan or thing to base this off of. As I said, this game is a work in progress. I want
+the board to be made professionally and with precision. It would be nice to be made out of the same material the mass produced ones are made of, but I may stick
+with wood. I'll see what comes my way. The board design comes at a very late stage in the game because it's what advertises your game. You need to have a solid
+understanding of what your game does, how its played, etc. It's what entices someone to play your game of Monopoly. You want the box to pop. To be exciting!
+
+Dimensions: (original): The box from a classic Monopoly set is 16 inches long by 10 3/4 inches wide by 1 3/4 inches. 
+(from https://www.monopolyland.com/monopoly-board-dimensions/) | Massive Monopoly: unset.

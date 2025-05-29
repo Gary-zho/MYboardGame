@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1018.8711"
+   height="299.62503"
+   viewBox="0 0 269.57629 79.275792"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="main_logo_blue.svg"
+   inkscape:export-filename="C:\Users\garfu\OneDrive\Documents\School\College\4th Semester\Web Fundimentals\Week 7\personal_website\images\main_logo_blue.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#bfbfbf"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="true"
+     inkscape:document-units="mm"
+     showgrid="false"
+     width="1000.0001px"
+     units="px"
+     inkscape:zoom="0.70710681"
+     inkscape:cx="685.18644"
+     inkscape:cy="-218.49599"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2"
+     inkscape:snap-bbox="true" />
+  <defs
+     id="defs2">
+    <inkscape:path-effect
+       effect="powermask"
+       id="path-effect78450"
+       is_visible="true"
+       lpeversion="1"
+       uri="#mask-powermask-path-effect78450"
+       invert="false"
+       hide_mask="false"
+       background="false"
+       background_color="#ffffffff" />
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask-powermask-path-effect78450">
+      <g
+         id="g78448"
+         transform="translate(-0.5291591,-10.191743)"
+         style="stroke-width:0.999999">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:32.3925px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.264582"
+           x="210.25874"
+           y="61.016056"
+           id="text78446">         <tspan
+   sodipodi:role="line"
+   id="tspan78444"
+   style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:32.3925px;font-family:Lato;-inkscape-font-specification:'Lato, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.264582"
+   x="213.3846"
+   y="61.016056">GAME</tspan>      </text>
+      </g>
+    </mask>
+    <style
+       type="text/css"
+       id="style8"><![CDATA[
+      @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+      @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+
+      #tspan19998 {
+        font-family: 'Lato', sans-serif;
+        font-weight: 400; /* Regular */
+      }
+
+      #tspan11542 {
+        font-family: 'Roboto', sans-serif;
+        font-weight: 500; /* Medium */
+      }
+
+      #tspan78444 {
+        font-family: 'Lato', sans-serif;
+        font-weight: 900; /* Heavy */
+      }
+    ]]></style>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter2311"
+       x="-0.043897636"
+       y="-0.15681029"
+       width="1.0877953"
+       height="1.3136206">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="3.731515"
+         id="feGaussianBlur2313" />
+    </filter>
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Sign Text Hollow" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Sign">
+    <path
+       inkscape:export-filename="C:\Users\garfu\OneDrive\Documents\GitHub\myboardgame\images\header\nav\main_logo_inversed_blue_with_shadow.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       id="rect1357-5"
+       style="mix-blend-mode:normal;fill:#3a405a;fill-opacity:1;stroke:#3a405a;stroke-width:5.29167;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;filter:url(#filter2311);stop-color:#000000"
+       d="M 2.6458333,2.6458349 V 76.629953 H 146.62981 152.09046 266.93047 V 2.6458349 h -114.84001 -5.46065 z" />
+    <path
+       id="path2315"
+       style="fill:#f2f2f2;fill-opacity:1;stroke:#3a405a;stroke-width:5.29167;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000"
+       d="M 2.6458333,2.6458349 V 76.629953 H 146.62981 152.09046 266.93047 V 2.6458349 h -114.84001 -5.46065 z"
+       inkscape:export-filename="C:\Users\garfu\OneDrive\Documents\GitHub\myboardgame\images\header\nav\main_logo_inversed_blue_with_shadow.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.5772px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;word-spacing:0px;text-anchor:middle;fill:#3a405a;fill-opacity:1;stroke-width:0.264583"
+       x="33.196613"
+       y="33.966045"
+       id="text20000"
+       transform="scale(0.99051862,1.0095721)"
+       inkscape:export-filename="C:\Users\garfu\OneDrive\Documents\GitHub\myboardgame\images\header\nav\main_logo_inversed_blue_with_shadow.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan19998"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.5772px;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#3a405a;fill-opacity:1;stroke-width:0.264583"
+         x="33.196613"
+         y="33.966045">MY</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:26.5772px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;word-spacing:0px;text-anchor:start;fill:#3a405a;fill-opacity:1;stroke-width:0.264583"
+       x="12.665798"
+       y="63.654839"
+       id="text11544"
+       transform="scale(0.99051862,1.0095721)"
+       inkscape:export-filename="C:\Users\garfu\OneDrive\Documents\GitHub\myboardgame\images\header\nav\main_logo_inversed_blue_with_shadow.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan11542"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:26.5772px;font-family:Roboto;-inkscape-font-specification:'Roboto, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;fill:#3a405a;fill-opacity:1;stroke-width:0.264583"
+         x="12.665798"
+         y="63.654839">BOARD</tspan></text>
+    <path
+       id="rect1357"
+       style="fill:#000000;fill-opacity:0;stroke:#3a405a;stroke-width:5.29167;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000"
+       d="M 2.6458296,2.6953664 H 152.09049 V 76.679472 H 2.6458296 Z"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="C:\Users\garfu\OneDrive\Documents\GitHub\myboardgame\images\header\nav\main_logo_inversed_blue_with_shadow.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="path974"
+       style="fill:#3a405a;fill-opacity:1;stroke:#3a405a;stroke-width:5.29166;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000"
+       d="M 152.09041,2.6953664 H 266.83513 V 76.679472 H 152.09041 Z"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="C:\Users\garfu\OneDrive\Documents\GitHub\myboardgame\images\header\nav\main_logo_inversed_blue_with_shadow.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:32.2549px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;word-spacing:0px;text-anchor:middle;fill:#f2f2f2;fill-opacity:1;stroke-width:0.264583"
+       x="209.22044"
+       y="51.060226"
+       id="text5653"
+       transform="scale(0.99051862,1.0095721)"
+       inkscape:export-filename="C:\Users\garfu\OneDrive\Documents\GitHub\myboardgame\images\header\nav\main_logo_inversed_blue_with_shadow.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan5651"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:32.2549px;font-family:Lato;-inkscape-font-specification:'Lato, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#f2f2f2;fill-opacity:1;stroke-width:0.264583"
+         x="209.22044"
+         y="51.060226">GAME</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Palette" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="sign_text_solid" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.383px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+     x="206.95085"
+     y="70.161705"
+     id="text48164"><tspan
+       sodipodi:role="line"
+       id="tspan48162"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.383px;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+       x="206.95085"
+       y="70.161705" /></text>
+</svg>

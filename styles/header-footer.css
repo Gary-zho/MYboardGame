@@ -1,0 +1,256 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@900&display=swap'); /* Lato */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap'); /* Roboto */
+  
+/* https://coolors.co/e9c46a-3a405a-759aab-e07a5f */
+  
+:root {
+  /* change the values below to your colors from your palette */
+  --primary-color: #E9C46A;
+  --secondary-color: #3A405A;
+  --accent1-color: #759AAB;
+  --accent2-color: #E07A5F;
+
+  /* change the values below to your chosen font(s) */
+  --heading-font: "Lato", Helvetica, sans-serif;
+  --paragraph-font: "Roboto", Helvetica, sans-serif;
+
+  /* these colors below should be chosen from among your palette colors above */
+  --headline-color-on-white: var(--primary-color);  /* headlines on a white background */ 
+  --headline-color-on-color: #F2F2F2; /* headlines on a colored background */ 
+  --paragraph-color-on-white: var(--accent1-color); /* paragraph text on a white background */ 
+  --paragraph-color-on-color: #000; /* paragraph text on a colored background */ 
+  --paragraph-background-color: var(--secondary-color);
+  --nav-link-color: #000;
+  --nav-background-color: var(--primary-color);
+  --nav-hover-link-color: #F2F2F2;
+  --nav-hover-background-color: var(--accent1-color);
+}
+
+/* Aligning everything to the baseline of the page. */
+*, *::before, *::after {
+  margin: 0;
+  padding: 0;
+}
+
+/* Setting a baseline text-size */
+
+body {
+  min-width: 100%;
+  max-width: 100%;
+  background-color: var(--primary-color);
+  
+}
+/* Top bar (div) disclaimer */
+#disclaimer-div {
+  display: grid;
+  grid-template-columns: 97% 3%;
+  padding: 1%;
+  background-color: var(--secondary-color);
+  align-items: center;
+}
+
+#disclaimer-p {
+  font-size: 1em;
+  font-family: var(--paragraph-font);
+  color: var(--headline-color-on-color);
+  text-align: center;
+}
+
+#close-disclaimer {
+  color: var(--headline-color-on-color);
+  display: flex;
+  justify-self: right;
+  transition: all 0.2s ease-in;
+}
+
+
+#close-disclaimer:hover {
+  color: var(--accent1-color);
+  background-color: #5e67928c;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+#close-disclaimer-checkbox {
+  display: none;
+  cursor: default;
+}
+
+/* Using the checkbox checked psudo class to change
+the visibility of the sibling id #disclaimer-div */
+#close-disclaimer-checkbox:checked ~ #disclaimer-div {
+  opacity: 0;
+  transition: all .5s ease-in-out;
+}
+
+/* When the close-disclaimer-checkbox checkbox is checked,
+change the pointer events (any cursor interactions with that
+div) to none so that once the checkbox is checked, the user isn't
+prompted that anything is there anymore.*/
+#close-disclaimer-checkbox:checked ~ #disclaimer-div {
+  pointer-events: none;
+  position: absolute;
+}
+
+
+header {
+  display: grid;
+  grid-template-columns: 20% 80%;
+  background-color: var(--primary-color);
+  justify-items: center;
+  align-items: center;
+  height: 80px;
+}
+
+/* general image styling */
+img {
+  font-style: italic;
+}
+
+/* Style the logo */
+#logo-div {
+  content: url(../images/header/nav/desktop_main_logo_blue.png);
+  height: 57px;
+  transition: height .2s ease-in;
+  
+}
+
+#logo-div:hover {
+  content: url(../images/header/nav/desktop_main_logo_blue_inversed.png);
+  height: 59px;
+}
+
+/* nav styles */
+nav {
+  display: flex;
+  width: 100%;
+}
+
+nav a {
+  display: inherit;
+  width: 100%;
+  height: 80px;
+  font-family: var(--paragraph-font);
+  color: var(--nav-link-color);
+  font-size: 1.3rem;
+  text-decoration: none;
+  align-items: center;
+  justify-content: center;
+  transition: background-color 0.2s ease-out;
+}
+
+/* nav a and hover styling */
+nav a:hover {
+  background-color: var(--nav-hover-background-color);
+  color: var(--nav-hover-link-color);
+}
+
+footer {
+  width: 100%;
+  height: 70px;
+  display: grid;
+  grid-template-columns: 50% 25% 25%;
+  margin-top: auto;
+  justify-items: center;
+  justify-content: center;
+  align-items: center;
+  background-color: var(--primary-color);
+  overflow: hidden;
+}
+
+footer p {
+  grid-column: 1/2;
+  font-size: 1.3rem;
+}
+
+#siteplan-link {
+  text-decoration: none;
+  font-size: 1.4em;
+}
+
+#siteplan-link:hover {
+  text-decoration: underline;
+}
+
+#siteplan-link:visited {
+  color: #4b4a4a;
+}
+
+footer p, #siteplan-link {
+  font-family: var(--paragraph-font);
+  font-family: var(--paragraph-font);
+  color: var(--paragraph-color-on-color);
+  width: fit-content;
+  text-align: center;
+}
+
+
+#footer-contact-section {
+  margin-right: 10px;
+  justify-self: end;
+  padding: 5px 5px 0 5px;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  width: 156px;
+  text-align: center;
+  
+}
+
+footer img {
+  width: 50px;
+  padding: 3px;
+  padding-top: 2px;
+}
+
+@media screen and (max-width: 900px) {
+  
+  header {
+    height: 180px;
+    grid-template-columns: 1fr 3fr;
+    align-items: center;
+  }
+  
+  #logo-div {
+    content: url(../images/header/nav/mobile_main_logo_blue.png);
+    height: 130px;
+    transition: height .2s ease-in;
+  }
+  
+  #logo-div:hover {
+    content: url(../images/header/nav/mobile_main_logo_blue_inversed.png);
+    height: 136px;
+  }
+  
+  nav {
+    flex-direction: column;
+    height: 180px;
+  }
+  
+  /* nav a styles */
+  nav a {
+    font-size: 1.5em;
+    padding: 15px 0;
+  }
+  #footer-contact-section {
+    justify-self: right;
+    display: grid;
+    grid-template-columns: 1fr;
+    width: 50px;
+    padding: 5px;
+    padding-bottom: 0;
+    overflow: hidden;
+  }
+  footer {
+    height: 185px;
+    padding-top: 4px;
+  }
+}
+
+
+
+
+
+
+
+
